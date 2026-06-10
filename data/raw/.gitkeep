@@ -1,0 +1,8 @@
+Place Texas Prior Authorization form images (PNG/JPG) or PDFs here.
+
+Example:
+```bash
+cp /path/to/TX_page_*.png data/raw/
+```
+
+Processed JSON will be written to `data/processed/`.

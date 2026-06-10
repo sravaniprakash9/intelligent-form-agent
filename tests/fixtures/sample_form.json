@@ -1,0 +1,12 @@
+{
+  "form_id": "sample_001",
+  "source_file": "sample.png",
+  "section_iii_patient": {
+    "name": "Jane Doe",
+    "member_id": "12345"
+  },
+  "section_ii_general": {
+    "review_type": "non_urgent",
+    "request_type": "initial"
+  }
+}
